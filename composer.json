@@ -1,15 +1,15 @@
 {
-    "name": "africastalking/africastalking",
-    "description": "Official Africa's Talking PHP SDK",
+    "name": "josphat/africastalking",
+    "description": "Unofficial Official Africa's Talking PHP SDK",
     "keywords": ["sms", "voice", "ussd", "text message", "airtime", "api", "africastalking"],
-    "homepage": "http://github.com/AfricasTalkingLtd/africastalking-php",
+    "homepage": "http://github.com/josphat/africastalking-php",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Africas's Talking",
-            "email": "support@africastalking.com",
-            "homepage": "https://www.africastalking.com"
+            "email": "support@aisolinn.com",
+            "homepage": "https://www.isolinn.com"
         }
     ],
     "require": {
